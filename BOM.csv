@@ -1,1 +1,12 @@
+Part,Qty,Link,Unit/Total Price ($)
+HB100,1,https://www.daraz.com.np/products/hb100-microwave-doppler-radar-sensor-10525ghz-24g-human-body-induction-switch-module-for-arduino-wireless-motion-detector-rcwl-i416635734.html,7.8
+Arduino UNO,1,https://www.amazon.com/Development-ATmega328P-CH340G-Straight-Header/dp/B0CP78J3L7/ref=sr_1_14?sr=8-14,7
+Op-amp,1,https://www.amazon.in/Electrobot-Texas-Instruments-741-Amp/dp/B0718X4LKW/ref=sr_1_2?nsdOptOutParam=true&sr=8-2,2(pack of 10)
+10k resistor,4,https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRJZ82J/ref=sr_1_5?sr=8-5,6.50(pack of 100)
+470k resistor,2,https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRQRSJ1/ref=sr_1_5?sr=8-5,5.50(pack of 100)
+1µF capacitor,2,https://hitechelectronics.co.zw/shop/products/1uf-capacitor-tantalum,0,05
+10µF capacitor,1,https://hitechelectronics.co.zw/shop/products/aluminium-capacitor-10uf-50v,0,10
+100pF capacitor,2,https://www.amazon.com/1000PCS-Ceramic-Capacitor-1000-100NF/dp/B0GH7LWYC8/ref=sr_1_4?sr=8-4,16.53(pack of 1000)
+100nF,1,https://www.amazon.com/1000PCS-Ceramic-Capacitor-1000-100NF/dp/B0GH7FV5N1/ref=sr_1_4?sr=8-4,16.50(pack of 1000)
+LCD 16x2 HD44780,1,https://www.amazon.com/HD44780-Character-Serial-Interface-Adapter/dp/B07T8MCTV1,3.32
 
