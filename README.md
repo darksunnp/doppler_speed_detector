@@ -1,7 +1,6 @@
 # Pomodoro Lockbox
 A focus timer that physically locks away your phone for the session 
 duration and releases it when the session completes.
-
 ![Zine](docs/FALLOUT-zine.png)
 ![Assembly render](hardware/enclosure/renders/iso.png)
 
